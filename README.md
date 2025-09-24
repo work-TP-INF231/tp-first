@@ -5,7 +5,7 @@ Chaque exercice est dans un dossier séparé (`[1]-nomExercice/`, `[2]-nomExerci
 
 ---
 
-## 📌 Contenu des exercices
+##  Contenu des exercices
 
 1. **Somme de matrices**
 2. **Produit de matrices**
@@ -19,7 +19,7 @@ Chaque exercice est dans un dossier séparé (`[1]-nomExercice/`, `[2]-nomExerci
 
 ---
 
-## ⚙️ Compilation et exécution
+##  Compilation et exécution
 
 Chaque dossier contient un fichier nomme en fonction du nom de l'exercice (`main.c`).  
 Vous pouvez compiler avec **gcc** puis exécuter le programme.  

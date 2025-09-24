@@ -1,0 +1,6 @@
+Compilation et execution du programme SommeMatrice :   gcc sommeMatrice.c -o sommeMatrice && ./sommeMatrice
+
+
+
+
+

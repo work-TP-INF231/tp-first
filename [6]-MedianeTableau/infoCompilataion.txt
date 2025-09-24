@@ -1,0 +1,1 @@
+Compilation et execution du programme medianeTableau :   gcc mediane_tableau.c -o medianeTableau && ./medianeTableau

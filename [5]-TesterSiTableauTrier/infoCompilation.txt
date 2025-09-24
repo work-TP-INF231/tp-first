@@ -1,0 +1,7 @@
+Compilation et execution du programme SommeMatrice :   gcc IfArraySort.c -o ifArraySort && ./ifArraySort
+
+
+
+
+
+

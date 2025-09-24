@@ -1,0 +1,7 @@
+Compilation et execution du programme produitMatrice :   gcc produitMatrice.c -o produitMatrice && ./produitMatrice
+
+
+
+
+
+

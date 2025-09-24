@@ -1,0 +1,2 @@
+Compilation et execution du programme SommeMatrice :   gcc recherche_sequentielle.c -o rechercheSequentielle && ./rechercheSequentielle
+ 

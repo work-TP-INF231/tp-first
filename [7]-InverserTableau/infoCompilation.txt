@@ -1,0 +1,16 @@
+Ce programme en langage C demande à l’utilisateur :
+      -- taille d’un tableau d’entiers.
+      --les éléments du tableau.
+
+Ensuite, il crée un nouveau tableau qui contient les mêmes éléments mais dans l’ordre inversé, et l’affiche.
+
+Compilation:  gcc -o exo exo7.c
+Exécution: ./exo
+
+Exemple d’utilisation:
+
+Entrez la taille du tableau : 5
+Entrez 5 éléments :
+1 2 3 4 5
+Tableau inversé :
+5 4 3 2 1

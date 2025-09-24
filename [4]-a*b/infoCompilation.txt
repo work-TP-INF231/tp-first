@@ -1,0 +1,11 @@
+Ce programme demande à l’utilisateur d’entrer deux entiers a et b strictement positifs et affiche leur produit.
+Si l’un des nombres est négatif ou nul, un message d’erreur s’affiche.
+
+Compilation: gcc -o exo exo4.c
+Exécution: ./exo
+
+Exemple: 
+Entrez deux entiers positifs (a et b) : 3 4
+Le produit de 3 et 4 est : 12
+
+

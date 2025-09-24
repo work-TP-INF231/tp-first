@@ -1,0 +1,1 @@
+Compilation et execution : gcc produitVectoriel.c -o produitVectoriel && ./produitVectoriel

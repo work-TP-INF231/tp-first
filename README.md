@@ -21,7 +21,7 @@ Chaque exercice est dans un dossier séparé (`[1]-nomExercice/`, `[2]-nomExerci
 
 ##  Compilation et exécution
 
-Chaque dossier contient un fichier nomme en fonction du nom de l'exercice (`main.c`).  
+Chaque dossier contient un fichier nomme en fonction du nom de l'exercice.  
 Vous pouvez compiler avec **gcc** puis exécuter le programme.  
 
 Commandes (à lancer depuis chaque dossier de chaque execice) :
@@ -60,7 +60,7 @@ gcc mediane_tableau.c -o medianeTableau && ./medianeTableau
 
 ### Exercice 7 — Inverser un tableau
 ```bash
-gcc gcc -o exo exo7.c && ./exo
+gcc -o exo exo7.c && ./exo
 ```
 
 ### Exercice 8 — Produit vectoriel
